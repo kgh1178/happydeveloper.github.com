@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parsley
 
 [![Build Status](https://travis-ci.org/guillaumepotier/Parsley.js.svg?branch=master)](https://travis-ci.org/guillaumepotier/Parsley.js)
@@ -68,3 +69,6 @@ In the terminal: `npm test`
 
 Released under the MIT License. See the bundled `LICENSE` file for
 details.
+=======
+# happydeveloper.github.com
+>>>>>>> 2d07b303a89781295f57f02abe607764505c06fb
